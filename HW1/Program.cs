@@ -9,7 +9,7 @@ namespace Homework1
             
                 Console.Write("Enter minumum number: ");
                 int minNumber = int.Parse(Console.ReadLine());
-
+                
                 Console.Write("Enter maxiumum number: ");
                 int maxNumber = int.Parse(Console.ReadLine());
 
